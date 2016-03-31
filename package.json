@@ -1,8 +1,9 @@
 {
   "name": "@manuelmolinier/dev_env",
   "version": "1.0.0",
-  "description": "",
+  "description": "An exercise for Freecodecamp",
   "main": "index.js",
+  "repository": "https://github.com/manuelmolinier/managepackagewithnpm",
   "scripts": {
     "test": "node test.js"
   },
